@@ -18,6 +18,19 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="No.21 Merge Two Sorted Lists.cpp" />
+    <ClCompile Include="No.252 Meeting Rooms.cpp" />
+    <ClCompile Include="No.253 Meeting Rooms II.cpp" />
+    <ClCompile Include="No.270 Closest Binary Search Tree Value.cpp" />
+    <ClCompile Include="No.283 Move Zeroes.cpp" />
+    <ClCompile Include="No.287 Find the Duplicate Number.cpp" />
+    <ClCompile Include="No.51 N-Queens.cpp" />
+    <ClCompile Include="No.66 Plus One.cpp" />
+    <ClCompile Include="No.73 Set Matrix Zeroes.cpp" />
+    <ClCompile Include="No.78 Subsets.cpp" />
+    <ClCompile Include="No.94 Binary Tree Inorder Traversal.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -138,27 +151,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="No.1 Two Sum.cpp" />
-    <ClCompile Include="No.118 Pascal%27s Triangle.cpp" />
-    <ClCompile Include="No.12 Integer to Roman.cpp" />
-    <ClCompile Include="No.13 Roman to Integer.cpp" />
-    <ClCompile Include="No.14 Longest Common Prefix.cpp" />
-    <ClCompile Include="No.169 Majority Element.cpp" />
-    <ClCompile Include="No.19 Remove Nth Node From End of List.cpp" />
-    <ClCompile Include="No.190 Reverse Bits.cpp" />
-    <ClCompile Include="No.2 Add Two Num.cpp" />
-    <ClCompile Include="No.22 Generate Parentheses.cpp" />
-    <ClCompile Include="No.24 Swap Nodes in Pairs.cpp" />
-    <ClCompile Include="No.27 Remove Element.cpp" />
-    <ClCompile Include="No.35 Search Insert Position.cpp" />
-    <ClCompile Include="No.38 Count and Say.cpp" />
-    <ClCompile Include="No.20 Valid Parentheses.cpp" />
-    <ClCompile Include="No.39 Combination Sum.cpp" />
-    <ClCompile Include="No.4 Median of Two Sorted Arrays.cpp" />
-    <ClCompile Include="No.7 Reverse Integer.cpp" />
-    <ClCompile Include="No.8 String to Integer (atoi).cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
