@@ -15,37 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="No.21 Merge Two Sorted Lists.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No.66 Plus One.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No.78 Subsets.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No.73 Set Matrix Zeroes.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No.51 N-Queens.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No.94 Binary Tree Inorder Traversal.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No.283 Move Zeroes.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No.252 Meeting Rooms.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No.253 Meeting Rooms II.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No.270 Closest Binary Search Tree Value.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="No.287 Find the Duplicate Number.cpp">
+    <ClCompile Include="No.1480 Running Sum of 1d Array.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
