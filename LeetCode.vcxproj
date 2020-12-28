@@ -19,17 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="No.21 Merge Two Sorted Lists.cpp" />
-    <ClCompile Include="No.252 Meeting Rooms.cpp" />
-    <ClCompile Include="No.253 Meeting Rooms II.cpp" />
-    <ClCompile Include="No.270 Closest Binary Search Tree Value.cpp" />
-    <ClCompile Include="No.283 Move Zeroes.cpp" />
-    <ClCompile Include="No.287 Find the Duplicate Number.cpp" />
-    <ClCompile Include="No.51 N-Queens.cpp" />
-    <ClCompile Include="No.66 Plus One.cpp" />
-    <ClCompile Include="No.73 Set Matrix Zeroes.cpp" />
-    <ClCompile Include="No.78 Subsets.cpp" />
-    <ClCompile Include="No.94 Binary Tree Inorder Traversal.cpp" />
+    <ClCompile Include="No.1480 Running Sum of 1d Array.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
